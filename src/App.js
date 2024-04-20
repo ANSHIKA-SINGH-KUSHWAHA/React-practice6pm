@@ -58,6 +58,9 @@ import MyComponentClass from './MyComponentClass';
   
 // };
 
+
+
+
 class App extends React.Component
 {
   state = {classComponent:  <MyComponentClass color="red" size="medium" onClick={()=>
